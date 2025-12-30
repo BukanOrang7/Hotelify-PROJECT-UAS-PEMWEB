@@ -362,11 +362,11 @@
             </div>
             <div class="text-center group transform hover:scale-110 transition-all duration-500 cursor-pointer">
                 <div class="text-5xl font-bold text-white mb-2 group-hover:text-blue-300 transition-colors duration-300" id="stat3">0</div>
-                <div class="text-white/80 group-hover:text-white transition-colors duration-300">Dedicated Staff</div>
+                <div class="text-white/80 group-hover:text-white transition-colors duration-300">Staf Berpengalaman</div>
             </div>
             <div class="text-center group transform hover:scale-110 transition-all duration-500 cursor-pointer">
                 <div class="text-5xl font-bold text-white mb-2 group-hover:text-blue-300 transition-colors duration-300" id="stat4">0</div>
-                <div class="text-white/80 group-hover:text-white transition-colors duration-300">Kota di Seluruh Dunia</div>
+                <div class="text-white/80 group-hover:text-white transition-colors duration-300">Penghargaan</div>
             </div>
         </div>
     </div>
